@@ -59,3 +59,7 @@ li,a{
   display: flex;
   justify-content: space-between;
 }
+
+.right-links{
+  margin-right: 35px;
+}
